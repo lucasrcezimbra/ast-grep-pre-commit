@@ -1,0 +1,6 @@
+[project]
+name = "ast-grep-pre-commit"
+version = "0.0.0"
+dependencies = [
+    "ast-grep-cli==0.35.0",
+]

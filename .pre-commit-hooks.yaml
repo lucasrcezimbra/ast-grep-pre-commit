@@ -2,4 +2,3 @@
     name: ast-grep
     entry: sg scan
     language: python
-    additional_dependencies: ["ast-grep-cli"]
