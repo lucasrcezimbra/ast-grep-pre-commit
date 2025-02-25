@@ -1,4 +1,4 @@
 -   id: ast-grep
     name: ast-grep
-    entry: sg scan
+    entry: sg scan -U
     language: python
